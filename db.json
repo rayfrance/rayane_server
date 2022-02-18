@@ -1,16 +1,41 @@
 {
-  "posts":[
+  "alunos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "nome": "Thais",
+      "curso": "Dev front",
+      "matricula": "2022abc",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nome": "Luiz",
+      "curso": "Dev front",
+      "matricula": "2022abc",
+      "id": 2
+    },
+    {
+      "nome": "Alana",
+      "curso": "Dev front",
+      "matricula": "2022abc",
+      "id": 3
+    },
+    {
+      "nome": "Luana",
+      "curso": "front-ed",
+      
+      "matricula": "12938234",
+      "id": 4
+    },
+    {
+      "nome": "Luiza",
+      "curso": "Dev front",
+      "matricula": "12323948",
+      "id": 5
+    },
+    {
+      "nome": "Rafael",
+      "curso": "Dev front",
+      "matricula": "129823kdksj",
+      "id": 6
     }
   ]
 }
